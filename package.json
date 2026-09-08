@@ -1,5 +1,7 @@
 {
   "name": "mafund",
+  "author": "navetacandra <dev@navetacandraa.my.id>",
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "dev": "wrangler dev",
